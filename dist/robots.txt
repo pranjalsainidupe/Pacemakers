@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pacemakerelectric.com/sitemap.xml
